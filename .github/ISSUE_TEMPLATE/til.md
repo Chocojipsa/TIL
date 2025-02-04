@@ -1,12 +1,12 @@
 ---
-name: til
+name: TIL
 about: Today I Learned
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
+### TIL - YYYY-MM-DD
 ### 오늘 배운 내용
 오늘 배운 내용을 간단히 설명해주세요.
 
